@@ -10,6 +10,7 @@ This is example is to show diferent parts of the Git repository and various comm
 Sample website with plenty of files for demos
 
 ## Deployment
-
+Some example text.
 
 ## How to contribute
+last example text
